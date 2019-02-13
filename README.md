@@ -6,6 +6,8 @@
 <https://askubuntu.com/questions/431606/what-should-i-do-when-i-get-there-are-stopped-jobs-error>
 <https://unix.stackexchange.com/questions/45646/how-do-i-exit-or-cancel-a-bad-bash-command>
 <https://secure.php.net/manual/en/language.basic-syntax.phpmode.php>
+<https://www.w3schools.com/css/>
+<https://www.w3.org/International/techniques/authoring-html#textprocessing>
 Made use of Sublime Text's HTML tag completion
 
 
