@@ -9,9 +9,11 @@
 	<link rel="stylesheet" type="text/css" href="/css/style.css">
 </head>
 <body>
-	<div class="content">
-		<h1 id="name">Brian</h1>
-		<p id="quote"><?=$quote?></p>
+	<div>
+		<h1 class="content" id="name">Brian</h1>
+		<p class="content">Who am I? Let's wait to copy paste.</p>
+		<img src='images/image.png' alt='Placeholder'>
+		<p class="content" id="quote"><?=$quote?></p>
 	</div>
 	<div class="extra">
 		<?php dump($quote); ?>
