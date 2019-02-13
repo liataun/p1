@@ -13,7 +13,8 @@
 		<h1 id="name">Brian</h1>
 		<p id="quote"><?=$quote?></p>
 	</div>
+	<div class="extra">
+		<?php dump($quote); ?>
+	</div>
 </body>
 </html>
-
-<?php dump($quote); ?>
