@@ -11,7 +11,7 @@
 <body>
 	<div class="content">
 		<h1 id="name">Brian</h1>
-		<p><?=$quote?></p>
+		<p id="quote"><?=$quote?></p>
 	</div>
 </body>
 </html>
