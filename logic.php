@@ -2,7 +2,7 @@
 $arrayText = [
 	"Weapons are not auspicious tools/some things are simply bad/thus the Taoist shuns them",
 	"To erase the possibility of empathy is to erase the possibility of undersanding.",
-	"The 'grammar bullies' - you read them in places like the New York Times and they tell you what is correct...This is Judgementalism. The game that is being played there is a game of social class.",
+	"The \"grammar bullies\" - you read them in places like the New York Times and they tell you what is correct...This is Judgementalism. The game that is being played there is a game of social class.",
 	"Surfeit! When the Daffodil/Doth of the Dew-/Even as Herself-Sir-/I will-of You-",
 ];
 $arrayAuthor = [
