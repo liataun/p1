@@ -1,5 +1,16 @@
-body {padding: 10px;}
-h1 {color: red;}
-img {width: 200px;}
-.content {font-style: italic;}
-#quote {color: green;}
+body {
+	background-color: white;
+	padding: 10px;}
+h1 {
+	color: #008000;
+	text-align: center}
+img {
+	width: 200px;}
+.content {
+	color: #2196f3;}
+#quote {
+	font-style: italic;
+	color: #008000;}
+#author {
+	color: #ee82ee;
+	text-indent: 50px}
