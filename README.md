@@ -8,7 +8,7 @@ Had an issue where nano glitched. Used this [ask ubuntu stopped jobs error](http
 I always need syntax reminders so checked around the [php manual](https://secure.php.net/manual/en/language.basic-syntax.phpmode.php) and the
 w3 [css reference](https://www.w3schools.com/css/).
 
-Early w3 validator item lead me to reading into some of the language support in html on [w3 International authoring](https://www.w3.org/International/techniques/authoring-html#textprocessing).
+Early [w3 validator](https://validator.w3.org/nu/) item led me to reading into the language support in html on [w3 International authoring](https://www.w3.org/International/techniques/authoring-html#textprocessing).
 
 ## Notes for instructor
 I made use of Sublime Text's HTML tag completion while typing up my code files. It makes quickly adding elements and properties easier, but seems like something I should note, since we are focusing on basics for this project.
