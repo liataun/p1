@@ -10,7 +10,7 @@
 </head>
 <body>
 	<div>
-		<img src='/images/photo.jpg' alt='At Middlesex Fells'>
+		<img src='/images/Photo.jpg' alt='At Middlesex Fells'>
 		<h1 id="name">Brian</h1>
 	</div>
 	<div class="content">
